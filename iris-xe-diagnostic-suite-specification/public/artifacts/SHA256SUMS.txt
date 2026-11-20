@@ -1,0 +1,2 @@
+b201a87d2e2e389bca4172d5e303d2636610fda39c56b9e719ca84dc9045fc66  /home/user/sandbox/public/artifacts/IrisXe-Auditoria-diagnostico-irisxe-v2.bundle
+e93e664715ccb7e14f7e38fe576efd639067f520eb76b39b682cc4dc378e4dec  /home/user/sandbox/public/artifacts/IrisXe-Diagnostic-Suite-v2-Desktop-Source.zip
